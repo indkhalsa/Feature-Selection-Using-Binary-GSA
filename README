@@ -1,0 +1,5 @@
+Feature Selection using Binary GSA
+
+this project is implementing the algorithm that is proposed by this paper:
+Papa, J.P.; Pagnin, A.; Schellini, S.A.; Spadotto, A.; Guido, R.C.; Ponti, M.; Chiachia, G.; Falcao, A.X., "Feature selection through gravitational search algorithm," Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference on , vol., no., pp.2052,2055, 22-27 May 2011
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5946916&isnumber=5946226
